@@ -1,0 +1,237 @@
+header {
+    position: absolute;
+    width: 1440px;
+    height: 60px;
+    left: 0px;
+    top: 0px;
+
+    background: #718387;
+}
+
+nav a1 {
+    position: absolute;
+    width: 34px;
+    height: 16px;
+    left: 120px;
+    top: -36px;
+
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 16px;
+
+    color: #FFFFFF;
+}
+
+nav a2   {
+    position: absolute;
+    width: 64px;
+    height: 16px;
+    left: 174px;
+    top: -36px;
+
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 16px;
+
+    color: #FFFFFF;
+}
+nav a3 {
+    position: absolute;
+    width: 52px;
+    height: 16px;
+    left: 258px;
+    top: -36px;
+
+    font-family: 'Roboto', sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 16px;
+
+    color: #FFFFFF;
+
+}
+
+.banner {
+    position: absolute;
+    width: 1440px;
+    height: 500px;
+    left: 1px;
+    top: 60px;
+
+    background-image: linear-gradient(96.79deg, rgba(72, 98, 136, 0.6) 0.75%, rgba(152, 51, 108, 0.6) 100%), url('img/fundo.png');
+}
+
+
+
+#foto__danielle{
+    position: absolute;
+width: 122px;
+height: 122px;
+left: 664px;
+top: 143px;
+
+background: url(image.png);
+border: 3px solid #486288;
+box-sizing: border-box;
+border-radius: 100px;
+}
+
+.banner h2 {
+position: absolute;
+width: 542px;
+height: 40px;
+left: 567px;
+top: 310px;
+
+font-family: 'Quicksand', sans-serif;
+font-style: normal;
+font-weight: 600;
+font-size: 32px;
+line-height: 40px;
+/* identical to box height */
+
+
+color: #FFFFFF;
+
+text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+
+.icones {
+    position: absolute;
+    top:393px;
+    left: 590px;
+}
+
+.icones img {
+    padding-right: 40px;
+}
+
+#h2-formacao{
+    position: absolute;
+    width: 117px;
+    height: 30px;
+    left: 120px;
+    top: 584px;
+
+    font-family: 'Quicksand', sans-serif;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 24px;
+    line-height: 30px;
+    /* identical to box height */
+
+
+    color: #000000;
+}
+
+#p-formacao{
+    position: absolute;
+    width: 1200px;
+    height: 90px;
+    left: 120px;
+    top: 630px;
+
+    font-family: 'Quicksand', sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 30px;
+    /* or 214% */
+
+
+    color: #000000;
+}
+
+#h2-projetos{
+    position: absolute;
+    width: 94px;
+    height: 30px;
+    left: 120px;
+    top: 744px;
+
+    font-family: 'Quicksand', sans-serif;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 24px;
+    line-height: 30px;
+    /* identical to box height */
+
+
+    color: #000000;
+}
+
+#p-projetos{
+    position: absolute;
+    width: 1200px;
+    height: 90px;
+    left: 120px;
+    top: 790px;
+
+    font-family: 'Quicksand', sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 30px;
+    /* or 214% */
+
+
+    color: #000000;
+}
+
+#h2-galeria{
+    position: absolute;
+    width: 181px;
+    height: 30px;
+    left: 120px;
+    top: 920px;
+
+    font-family: 'Quicksand', sans-serif;   
+    font-style: normal;
+    font-weight: 500;
+    font-size: 24px;
+    line-height: 30px;
+    /* identical to box height */
+
+    color: #000000;
+}
+
+#img1 {
+    position: absolute;
+    width: 352px;
+    height: 235px;
+    left: 120px;
+    top: 990px;
+
+    background: url(pexels-christina-morillo-1181677.jpg);
+    border: 1px solid #98336C;
+    box-sizing: border-box;
+}
+
+#img2 {
+    position: absolute;
+    width: 352px;
+    height: 235px;
+    left: 544px;
+    top: 990px;
+
+    background: url(pexels-hitesh-choudhary-879109.jpg);
+    border: 1px solid #98336C;
+    box-sizing: border-box;
+}
+
+#img3 {
+    position: absolute;
+    width: 352px;
+    height: 235px;
+    left: 968px;
+    top: 990px;
+
+    background: url(pexels-thisisengineering-3861958.jpg);
+    border: 1px solid #98336C;
+    box-sizing: border-box;
+}
